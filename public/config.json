@@ -1,0 +1,11 @@
+{
+    "PublicUrl": "http://192.168.200.86:6001/",
+    "DirfreeUrl": "http://192.1.1.141:6006/",
+    "CloudServices": "/CloudServices/",
+    "App": "浙江血液云平台",
+    "AppTitle": "用血服务不用跑",
+    "AppCopyright": "地址：浙江省杭州市建业路789号&nbsp;&nbsp;邮编：310052 Copyright ©2023 浙江省版权所有",
+    "AppTip": "建议使用谷歌浏览器版本 96.0.4664.110 及以上, IE11及以上",
+    "AppVersion": "V2.0.1",
+    "iStrongPWD": false
+  }

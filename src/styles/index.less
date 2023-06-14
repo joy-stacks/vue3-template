@@ -1,0 +1,35 @@
+@import url("@/styles/reset.less");
+// @import url('@/styles/common.less');
+@import url("@/styles/font.less");
+// @import url("@/styles/color.less");
+@import url("@/styles/dark.variable.less");
+// @import url("@/styles/theme.less");
+// @import url(./var.less);
+
+#nprogress .bar {
+  background-color: var(--ant-primary-color) !important;
+}
+
+/* 设置全局的滚动条样式 */
+::-webkit-scrollbar {
+  width: 5px !important;
+  height: 10px !important;
+}
+
+::-webkit-scrollbar-::-webkit-scrollbar-track {
+  background: var(--theme-bg-color) !important;
+  border-radius: 5px !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(193, 193, 193) !important;
+  border-radius: 5px !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #747474 !important;
+}
+
+::-webkit-scrollbar-corner {
+  background: var(--theme-bg-color) !important;
+}
